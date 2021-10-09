@@ -254,5 +254,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/pota.png"
+  },
+  {
+    "name": "COOL",
+    "address": "0x9cc5804e944eaca94400e37dc09cc40b932759cf",
+    "symbol": "COOL",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmNrtEQ2Nh8zcLFBGgb9ALjLEbqNzDvc38dSkevHABY6RQ"
   }
 ]
